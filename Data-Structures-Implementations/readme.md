@@ -4,7 +4,7 @@ This repository contains implementations of several fundamental data structures 
 
 ## Table of Contents
 
-- LinkedList
+- [LinkedList](./LinkedListDemo.java)
 - Stack
 - Queue
 - Heap - MinHeap
