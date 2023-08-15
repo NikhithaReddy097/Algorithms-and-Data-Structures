@@ -31,6 +31,9 @@ A stack is a linear data structure that follows the Last-In-First-Out (LIFO) pri
 - Pop: Remove and return the top element from the stack.
 - Peek: Retrieve the top element without removing it.
 
+  [View implementation](./StackDemo.java)
+
+
 ## Queue
 
 A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. This implementation provides methods for enqueuing elements at the rear and dequeuing elements from the front of the queue.
@@ -40,7 +43,9 @@ A queue is a linear data structure that follows the First-In-First-Out (FIFO) pr
 - Enqueue: Add an element to the rear of the queue.
 - Dequeue: Remove and return the front element from the queue.
 
+ [View implementation](./QueueDemo.java)
 
+  
 ## Min Heap
 
 A min heap is a binary tree-based data structure that satisfies the heap property. This implementation provides methods for inserting elements and extracting the minimum element from the heap.
@@ -51,6 +56,7 @@ A min heap is a binary tree-based data structure that satisfies the heap propert
 - Extract Min: Remove and return the minimum element from the heap.
 - Delete: Removes the minimum element 
 
+ [View implementation](./HeapDemo.java)
 
 
 Feel free to modify and expand upon this template to provide more details, usage examples, and any other relevant information for your specific implementations.
