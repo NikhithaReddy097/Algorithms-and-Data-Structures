@@ -1,5 +1,3 @@
-Creating a comprehensive README file is crucial for effectively communicating the purpose, usage, and functionality of your open-source project. Here's a template you can use as a starting point to explain the data structures you've implemented:
-
 # Data Structures Implementation Repository
 
 This repository contains implementations of several fundamental data structures in Python (or the programming language you've used), including LinkedList, Stack, Queue, and Min Heap. These data structures provide essential tools for organizing and managing data in various applications.
