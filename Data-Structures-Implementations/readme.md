@@ -5,9 +5,9 @@ This repository contains implementations of several fundamental data structures 
 ## Table of Contents
 
 - [LinkedList](./LinkedListDemo.java)
-- Stack
-- Queue
-- Heap - MinHeap
+- [Stack](./StackDemo.java)
+- [Queue](./QueueDemo.java)
+- [Heap](./HeapDemo.java)
 
 ## LinkedList
 
@@ -19,6 +19,7 @@ A linked list is a linear data structure where each element, known as a node, co
 - Deletion: Remove an element from the linked list based on its value or position.
 - Display: Print the elements of the linked list in order.
 
+[View implementation](./LinkedListDemo.java)
 
 ## Stack
 
