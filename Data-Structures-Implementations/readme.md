@@ -5,8 +5,8 @@ This repository contains implementations of several fundamental data structures 
 ## Table of Contents
 
 - [LinkedList](https://github.com/NikhithaReddy097/Algorithms-and-Data-Structures/blob/main/Data-Structures-Implementations/readme.md#linkedlist)
-- [Stack]([./StackDemo.java](https://github.com/NikhithaReddy097/Algorithms-and-Data-Structures/blob/main/Data-Structures-Implementations/readme.md#stack))
-- [Queue]([./QueueDemo.java](https://github.com/NikhithaReddy097/Algorithms-and-Data-Structures/blob/main/Data-Structures-Implementations/readme.md#queue))
+- [Stack](https://github.com/NikhithaReddy097/Algorithms-and-Data-Structures/blob/main/Data-Structures-Implementations/readme.md#stack)
+- [Queue](https://github.com/NikhithaReddy097/Algorithms-and-Data-Structures/blob/main/Data-Structures-Implementations/readme.md#queue)
 - [Heap](https://github.com/NikhithaReddy097/Algorithms-and-Data-Structures/blob/main/Data-Structures-Implementations/readme.md#heap)
 
 ## LinkedList
