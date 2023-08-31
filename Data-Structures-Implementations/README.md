@@ -60,4 +60,3 @@ A min heap is a binary tree-based data structure that satisfies the heap propert
 
 
 Feel free to modify and expand upon this template to provide more details, usage examples, and any other relevant information for your specific implementations.
-![Project Logo](https://drive.google.com/file/d/1u7qD6oOutH7v3YArzs6hB9N7lUUtPC0C/view)
